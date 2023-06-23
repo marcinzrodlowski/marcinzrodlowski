@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my web3 skills in general.
+🔭 I’m currently working on my web3 skills in general touching many different topics. In my spare time I enjoy improving my english and chinese.
 
 
 ## 🌐 Socials:
