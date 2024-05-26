@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I'm currently honing my full-stack skills to become a proficient full-stack developer. During my spare time, I delve deeper into blockchains and web3 technologies while also striving to improve my English, aiming for a C1 proficiency level.
+👋 Hi there! I'm Marcin, a passionate life-long learner from Poland 🇵🇱.🌐✨
+📚 Learning isn't just a phase for me; it's a lifestyle. I believe in the power of continuous growth and I am committed to expanding my skills in the ever-evolving tech landscape.
+🌟 Let's connect and share insights! Whether it's coding tips, language nuances, or networking discussions, I'm always eager to exchange knowledge and build meaningful connections.
 
 
 ## 🌐 Socials:
